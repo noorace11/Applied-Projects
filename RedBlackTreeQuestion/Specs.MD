@@ -20,7 +20,9 @@ Each of the next N lines is either “a x” or “r x”, with ‘x’ being an
 An “a x” indicates that the value x is inserted (added) into the set, and “r x” indicates that the value x is removed from the set.
 
 Constraints
+
 1 ≤ N ≤ 106
+
 -2,147,483,649 ≤ x ≤ 2,147,483,648
 
 Output Format
